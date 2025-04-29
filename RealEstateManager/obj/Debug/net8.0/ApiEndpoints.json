@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RealEstateManager.Controllers.GraphQLController",
+    "Method": "Post",
+    "RelativePath": "api/GraphQL",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "RealEstateManager.Utilities.GraphQLQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

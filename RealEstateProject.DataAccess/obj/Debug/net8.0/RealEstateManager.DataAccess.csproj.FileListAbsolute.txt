@@ -1,0 +1,15 @@
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\bin\Debug\net8.0\RealEstateManager.DataAccess.deps.json
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\bin\Debug\net8.0\RealEstateManager.DataAccess.dll
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\bin\Debug\net8.0\RealEstateManager.DataAccess.pdb
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\RealEstateManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\RealEstateManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\RealEstateManager.DataAccess.AssemblyInfo.cs
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\RealEstateManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\RealEstateManager.DataAccess.dll
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\refint\RealEstateManager.DataAccess.dll
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\RealEstateManager.DataAccess.pdb
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\ref\RealEstateManager.DataAccess.dll
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\bin\Debug\net8.0\RealEstateManager.Database.dll
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\bin\Debug\net8.0\RealEstateManager.Database.pdb
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\RealEstateManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateProject.DataAccess\obj\Debug\net8.0\RealEsta.D302B756.Up2Date

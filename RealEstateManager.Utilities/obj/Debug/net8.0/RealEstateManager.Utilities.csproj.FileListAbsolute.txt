@@ -1,0 +1,12 @@
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net8.0\RealEstateManager.Utilities.deps.json
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net8.0\RealEstateManager.Utilities.dll
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\bin\Debug\net8.0\RealEstateManager.Utilities.pdb
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.AssemblyInfoInputs.cache
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.AssemblyInfo.cs
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.dll
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\refint\RealEstateManager.Utilities.dll
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.pdb
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\ref\RealEstateManager.Utilities.dll
+C:\Users\fallienss\source\repos\GraphQL\RealEstateManager\RealEstateManager.Utilities\obj\Debug\net8.0\RealEstateManager.Utilities.csproj.AssemblyReference.cache
