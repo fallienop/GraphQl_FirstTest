@@ -4728,11 +4728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateProject.Database\\RealEstateManager.Database.csproj",
+      "projectUniqueName": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateProject.Database\\RealEstateManager.Database.csproj",
       "projectName": "RealEstateManager.Database",
-      "projectPath": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateProject.Database\\RealEstateManager.Database.csproj",
+      "projectPath": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateProject.Database\\RealEstateManager.Database.csproj",
       "packagesPath": "C:\\Users\\fallienss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateProject.Database\\obj\\",
+      "outputPath": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateProject.Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

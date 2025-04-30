@@ -1,5 +1,5 @@
-﻿using GraphiQl;
-using GraphQL;
+﻿using GraphQL;
+using GraphQL.Server;                     
 using RealEstateManager.DataAccess.Repositories.Contracts;
 using RealEstateManager.DataAccess.Repositories.Services;
 using RealEstateManager.Database.Context;
@@ -9,6 +9,7 @@ using RealEstateManager.Schema;
 using RealEstateManager.Types.PaymentTyp;
 using RealEstateManager.Types.PropertyTyp;
 using ServiceLifetime = GraphQL.DI.ServiceLifetime;
+using GraphQL.Execution;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
@@ -33,12 +34,18 @@ builder.Services.AddScoped<PropertyMutation>();
 builder.Services.AddScoped<PropertyType>();
 builder.Services.AddScoped<PropertyInsertType>();
 builder.Services.AddScoped<PaymentType>();
-//builder.Services.AddSingleton<ISchema>();
-builder.Services.AddGraphQL(b => b.AddSystemTextJson().AddSchema<RealEstateSchema>(serviceLifetime: ServiceLifetime.Scoped));
+
+
+builder.Services.AddGraphQL(b=>b.AddSystemTextJson().AddGraphTypes().AddClrTypeMappings().AddSchema<RealEstateSchema>(serviceLifetime: ServiceLifetime.Scoped).AddExecutionStrategy<SerialExecutionStrategy>(GraphQLParser.AST.OperationType.Query));
+
+//builder.Services.AddGraphQL(b => b.AddSystemTextJson().AddSchema<RealEstateSchema>(serviceLifetime: ServiceLifetime.Scoped));
 var app = builder.Build();
+
+app.UseGraphQL();
+app.UseGraphQLAltair();
+
 app.UseRouting();
-app.UseGraphiQl();
-app.UseAuthorization();
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -46,18 +53,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
+
+
 app.UseHttpsRedirection();
-
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapGraphQL("/graphql");
-});
-
-    
-//using (var scope = app.Services.CreateScope()) { 
-//var context = scope.ServiceProvider.GetRequiredService<RealEstateContext>();
-//    context.EnsureSeedData();
-//}
 
 app.MapControllers();
 

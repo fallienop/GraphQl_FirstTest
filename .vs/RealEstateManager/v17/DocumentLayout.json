@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\",
+  "WorkspaceRootPath": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB7ABF2F-BBC4-4F60-83D3-CAF9CC391E69}|RealEstateProject.Database\\RealEstateManager.Database.csproj|c:\\users\\fallienss\\source\\repos\\graphql\\realestatemanager\\realestateproject.database\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB7ABF2F-BBC4-4F60-83D3-CAF9CC391E69}|RealEstateProject.Database\\RealEstateManager.Database.csproj|solutionrelative:realestateproject.database\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|c:\\users\\fallienss\\source\\tests\\graphql_firsttest\\realestatemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|solutionrelative:realestatemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BA3E314-BB9D-4D39-8F83-5CFACB02BE41}|RealEstateManager.Types\\RealEstateManager.Types.csproj|c:\\users\\fallienss\\source\\repos\\graphql\\realestatemanager\\realestatemanager.types\\propertytyp\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BA3E314-BB9D-4D39-8F83-5CFACB02BE41}|RealEstateManager.Types\\RealEstateManager.Types.csproj|solutionrelative:realestatemanager.types\\propertytyp\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|c:\\users\\fallienss\\source\\tests\\graphql_firsttest\\realestatemanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|solutionrelative:realestatemanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BA3E314-BB9D-4D39-8F83-5CFACB02BE41}|RealEstateManager.Types\\RealEstateManager.Types.csproj|c:\\users\\fallienss\\source\\repos\\graphql\\realestatemanager\\realestatemanager.types\\paymenttyp\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BA3E314-BB9D-4D39-8F83-5CFACB02BE41}|RealEstateManager.Types\\RealEstateManager.Types.csproj|solutionrelative:realestatemanager.types\\paymenttyp\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|c:\\users\\fallienss\\source\\tests\\graphql_firsttest\\realestatemanager\\realestatemanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|solutionrelative:realestatemanager\\realestatemanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BA3E314-BB9D-4D39-8F83-5CFACB02BE41}|RealEstateManager.Types\\RealEstateManager.Types.csproj|c:\\users\\fallienss\\source\\repos\\graphql\\realestatemanager\\realestatemanager.types\\propertytyp\\propertyinserttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BA3E314-BB9D-4D39-8F83-5CFACB02BE41}|RealEstateManager.Types\\RealEstateManager.Types.csproj|solutionrelative:realestatemanager.types\\propertytyp\\propertyinserttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|c:\\users\\fallienss\\source\\tests\\graphql_firsttest\\realestatemanager\\schema\\realestateschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|solutionrelative:realestatemanager\\schema\\realestateschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|c:\\users\\fallienss\\source\\tests\\graphql_firsttest\\realestatemanager\\mutations\\propertymutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|solutionrelative:realestatemanager\\mutations\\propertymutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|c:\\users\\fallienss\\source\\tests\\graphql_firsttest\\realestatemanager\\controllers\\graphqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C90A100-8C81-4479-8376-63F6874D8A1A}|RealEstateManager\\RealEstateManager.csproj|solutionrelative:realestatemanager\\controllers\\graphqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Property.cs",
-              "DocumentMoniker": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateProject.Database\\Models\\Property.cs",
-              "RelativeDocumentMoniker": "RealEstateProject.Database\\Models\\Property.cs",
-              "ToolTip": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateProject.Database\\Models\\Property.cs",
-              "RelativeToolTip": "RealEstateProject.Database\\Models\\Property.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:04:31.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PropertyType.cs",
-              "DocumentMoniker": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Types\\PropertyTyp\\PropertyType.cs",
-              "RelativeDocumentMoniker": "RealEstateManager.Types\\PropertyTyp\\PropertyType.cs",
-              "ToolTip": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Types\\PropertyTyp\\PropertyType.cs",
-              "RelativeToolTip": "RealEstateManager.Types\\PropertyTyp\\PropertyType.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:04:27.231Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RealEstateManager\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RealEstateManager\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T16:02:05.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PaymentType.cs",
-              "DocumentMoniker": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Types\\PaymentTyp\\PaymentType.cs",
-              "RelativeDocumentMoniker": "RealEstateManager.Types\\PaymentTyp\\PaymentType.cs",
-              "ToolTip": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Types\\PaymentTyp\\PaymentType.cs",
-              "RelativeToolTip": "RealEstateManager.Types\\PaymentTyp\\PaymentType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstateManager\\Program.cs",
+              "ToolTip": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Program.cs",
+              "RelativeToolTip": "RealEstateManager\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:04:08.54Z",
+              "WhenOpened": "2025-04-30T15:14:47.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyMutation.cs",
+              "DocumentMoniker": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Mutations\\PropertyMutation.cs",
+              "RelativeDocumentMoniker": "RealEstateManager\\Mutations\\PropertyMutation.cs",
+              "ToolTip": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Mutations\\PropertyMutation.cs",
+              "RelativeToolTip": "RealEstateManager\\Mutations\\PropertyMutation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:25:03.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PropertyInsertType.cs",
-              "DocumentMoniker": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Types\\PropertyTyp\\PropertyInsertType.cs",
-              "RelativeDocumentMoniker": "RealEstateManager.Types\\PropertyTyp\\PropertyInsertType.cs",
-              "ToolTip": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Types\\PropertyTyp\\PropertyInsertType.cs",
-              "RelativeToolTip": "RealEstateManager.Types\\PropertyTyp\\PropertyInsertType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Title": "RealEstateSchema.cs",
+              "DocumentMoniker": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Schema\\RealEstateSchema.cs",
+              "RelativeDocumentMoniker": "RealEstateManager\\Schema\\RealEstateSchema.cs",
+              "ToolTip": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Schema\\RealEstateSchema.cs",
+              "RelativeToolTip": "RealEstateManager\\Schema\\RealEstateSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:04:05.704Z",
+              "WhenOpened": "2025-04-30T15:25:00.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealEstateManager.http",
+              "DocumentMoniker": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\RealEstateManager.http",
+              "RelativeDocumentMoniker": "RealEstateManager\\RealEstateManager.http",
+              "ToolTip": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\RealEstateManager.http",
+              "RelativeToolTip": "RealEstateManager\\RealEstateManager.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-30T15:24:56.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GraphQLController.cs",
+              "DocumentMoniker": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Controllers\\GraphQLController.cs",
+              "RelativeDocumentMoniker": "RealEstateManager\\Controllers\\GraphQLController.cs",
+              "ToolTip": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager\\Controllers\\GraphQLController.cs",
+              "RelativeToolTip": "RealEstateManager\\Controllers\\GraphQLController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:43:54.918Z",
               "EditorCaption": ""
             }
           ]

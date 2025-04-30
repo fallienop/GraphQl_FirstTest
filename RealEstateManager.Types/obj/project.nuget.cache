@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MfIoaaTMSnM=",
+  "dgSpecHash": "acp27W9cwKI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Types\\RealEstateManager.Types.csproj",
+  "projectFilePath": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager.Types\\RealEstateManager.Types.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fallienss\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\fallienss\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

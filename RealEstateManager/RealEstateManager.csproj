@@ -9,7 +9,9 @@
   <ItemGroup>
     <PackageReference Include="graphiql" Version="2.0.0" />
     <PackageReference Include="GraphQL" Version="8.5.0" />
+    <PackageReference Include="GraphQL.Server.Core" Version="5.2.2" />
     <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="8.2.0" />
+    <PackageReference Include="GraphQL.Server.Ui.Altair" Version="8.2.0" />
     <PackageReference Include="GraphQL.Server.Ui.Playground" Version="8.2.0" />
     <PackageReference Include="GraphQL.SystemTextJson" Version="8.5.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.4">

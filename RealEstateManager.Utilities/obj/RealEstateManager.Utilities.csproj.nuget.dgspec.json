@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Utilities\\RealEstateManager.Utilities.csproj": {}
+    "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager.Utilities\\RealEstateManager.Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Utilities\\RealEstateManager.Utilities.csproj": {
+    "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager.Utilities\\RealEstateManager.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Utilities\\RealEstateManager.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager.Utilities\\RealEstateManager.Utilities.csproj",
         "projectName": "RealEstateManager.Utilities",
-        "projectPath": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Utilities\\RealEstateManager.Utilities.csproj",
+        "projectPath": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager.Utilities\\RealEstateManager.Utilities.csproj",
         "packagesPath": "C:\\Users\\fallienss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fallienss\\source\\repos\\GraphQL\\RealEstateManager\\RealEstateManager.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\fallienss\\source\\Tests\\GraphQl_FirstTest\\RealEstateManager.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
